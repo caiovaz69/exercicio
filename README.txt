@@ -1,2 +1,3 @@
-Primeira Commit da Avalia‡Æo 
+Primeira Commit da Avaliacao 
 Alteracao na Nova Branch 
+Alteracao na Branch Principal 
